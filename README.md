@@ -1,1 +1,1 @@
-# www1.whyi.dk
+# Why IDK?
