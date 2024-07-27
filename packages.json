@@ -1,0 +1,5 @@
+"scripts": {
+  "build": "vite build && copy .nojekyll build",
+  "deploy": "npx gh-pages -d build -t true",
+  ...
+},
